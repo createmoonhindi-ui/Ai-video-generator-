@@ -6,6 +6,17 @@ if api_key and prompt:
 
 
 
+
+
+
+
+
+
+
+  
+
+
+
   
 os.environ["GEMINI_API_KEY"] = api_key
 st.write(
